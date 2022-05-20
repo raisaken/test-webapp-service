@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'saken'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_60A4BC01FAF5475ABF6126E5EE5A5A72 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EA1659DC13EC47F38FC55BA8336D945D }}
           package: .
